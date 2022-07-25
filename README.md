@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sidharth K (S01001011KV21)
+- 👋 Hi, I’m @Sidharth K (S01001011V21)
 - 👀 I’m interested in game development and design
 - 🌱 I’m currently learning Bsc computer Science
 - 💞️ I’m not looking to collaborate because i am in learing procedure
