@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sidharth K (S01001011V21)
-- 👀 I’m interested in it security
+- 👀 I’m interested in IT security
 - 🌱 I’m currently learning Msc computer Science with cyber security
 - 💞️ I’m not looking to collaborate because i am in learing procedure
 - 📫 How to reach me i am at linkedIN or Insta....!
