@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Sidharth K (S01001011V21)
-- 👀 I’m interested in IT security
-- 🌱 I’m currently learning Msc computer Science with cyber security
-- 💞️ I’m not looking to collaborate because i am in learing procedure
+- 👀 I’m interested in Cyber security (Mainly in Blue Team)
+- 🌱 I’m Postgraduate in Msc computer Science with cyber security
+- 🏢 Currently looking for Jobs in Cyber Security in Blue Team (Cyber Security Analyst)
+- 💞️ I’m looking to collaborate because i am in learing procedure
 - 📫 How to reach me i am at linkedIN or Insta....!
 
 <!---
